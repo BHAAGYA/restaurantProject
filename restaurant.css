@@ -1,0 +1,450 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+main{
+    background-image: linear-gradient(rgba(43, 40, 40, 0.167),rgb(41, 17, 17)),url('./wp1874155\ \(1\).webp');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+    
+    
+}
+
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 20px;
+    box-shadow: 8px 8px rgb(200, 4, 43);
+    background-color: rgb(7, 50, 87);
+    padding: 11px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 400px;
+    
+
+    
+}
+.lilyimg{
+    display: flex; 
+}
+.nav{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+ 
+li{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family:  'Protest Riot', sans-serif;
+    padding: 3px;
+    font-size: 20px;
+    
+}
+li:hover{
+    text-decoration: underline yellow;
+    
+
+}
+
+.navcontent {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    font-family:  'Protest Riot', sans-serif;
+    border-radius: 10px;
+  }
+  
+  .navcontent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .navcontent a:hover {
+    background-color: #ddd;
+  }
+  
+  .navlocation:hover .navcontent {
+    display: block;
+}
+
+.backgroundtext pre{
+    margin-left: 163px;
+    color: white;
+    margin-top: 173px;
+    font-family: 'PT Serif', serif;
+    font-size: 38px;
+    text-shadow: 2px 2px black;
+    word-spacing: 3px;
+    
+    
+}
+.backgroundtext button{
+   
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-shadow: 1px 1px rgb(208, 14, 14);
+    font-size: 20px;
+    font-family: 'Protest Riot', sans-serif;  
+    margin-left: 231px;
+    
+}
+.backgroundtext button:hover{
+    transform: translateY(-5px);
+    cursor: pointer; 
+    
+}
+.roundmenu{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: green;
+    margin-top: -80px;
+    margin-left:30px;  
+    margin-right: 30px;
+    box-shadow: 2px 2px red; 
+}
+.roundmenu:hover{
+    transform: translateY(-10px);
+    
+    
+}
+.roundmenu p:hover{
+    transform: scale(1.1);
+}
+
+.round{
+    display: flex;
+    justify-content: space-evenly;
+    height: 190px; background-color: rgb(10, 3, 89); 
+    margin-top: 164px;
+    box-shadow: 1px 1px 10px orangered;
+    
+}
+.roundmenu p{
+    padding: 75px 60px 60px 50px;
+    margin: 5px;
+    font-family: 'Kaushan Script', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    color: rgb(255, 255, 0);
+    text-shadow: 1px 2px rgb(6, 169, 214);
+}
+.round a{
+    text-decoration: none;
+}
+
+  .data{
+    background-color:  rgb(10, 3, 89) ;
+    background-size: cover;
+} 
+ .menuimg img{
+    border-radius: 20px;
+    background-image: url(./ingredients-near-pizza.jpg);
+    background-size: cover;
+    height: 600px;
+    margin-top: 170px;
+    width: 20vh;
+    margin-left: 2px;
+    box-shadow: 1px 1px 10px black;
+    
+} 
+
+
+
+.textmenu h1{
+    margin-left: 555px;
+    margin-top: 100px;
+    font-family: 'Protest Revolution', sans-serif;
+    color: white;
+    font-size: 130px;
+    text-shadow: 2px 2px rgb(255, 0, 0);
+    
+    
+}
+.textmenu h4{
+    margin-left: 585px;
+    margin-top: 10px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    text-shadow: 1px 1px rgb(125, 28, 28);
+    word-spacing: 5px;
+     color: yellow;
+
+    
+}
+.textmenu p{
+    margin-left: 507px;
+    margin-top: 10px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 25px;
+    color:white ;
+
+}
+.order{
+    margin-top:-115px ;
+}
+.textmenu button{
+    margin-left: 750px;
+    margin-top: 25px;
+    padding: 10px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 30px;
+    background-color: rgb(211, 4, 4);
+    color: aqua;
+    box-shadow: 2px 2px blue;
+    text-shadow: 1px 1px blue;
+    
+
+}
+.textmenu button:hover{
+    cursor: pointer;
+    transform: translateY(-5px);
+   
+}
+
+.onlineorder{
+    height: 246px;
+    background-color: rgb(215, 59, 2);
+    background-size: cover;
+    margin-top: 248px;
+    box-shadow: 1px 1px 10px black;
+}
+.ordertext h1{
+    color: white;
+    margin-left: 408px;
+    font-family: 'Kaushan Script', cursive;
+    font-size: 40px;
+    text-shadow: 2px 2px rgb(6, 21, 159);
+    margin-top: 10px;
+}
+.ordertext p{
+    color: white;
+    margin-left: 324px;
+    margin-top: 8px;
+    font-family: 'Kaushan Script';
+    font-size: 25px;
+
+
+}
+.ordertext button{
+    margin-left: 645px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(6, 9, 167);
+    box-shadow: 2px 2px rgb(1, 121, 7);
+    color: yellow;
+    font-family: 'Honk', system-ui;
+    font-size: 40px;
+
+}
+.ordertext button:hover{
+    cursor: pointer;
+    transform: translateY(-10px);
+    transition-delay: 0.1s;
+}
+.about{
+    margin-top: 2px;
+}
+.aboutbox{
+    display: flex;
+    margin-left: 30px;
+    margin-right: 10px;
+    
+
+}
+.aboutheading1{
+    background-color: yellow;
+    border-radius: 40px;
+    width: 445px;
+    height: 390px;
+}
+.aboutheading1 h1{
+    margin-left: 130px;
+    margin-right: 175px;
+    margin-top: 10px;
+    font-family: 'Protest Revolution', sans-serif;
+    color: rgb(3, 242, 255);
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(3, 3, 155);
+}
+.aboutheading1 button{
+    margin-left: 144px;
+    padding: 10px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+    box-shadow: 2px 2px rgb(4, 119, 30);
+    text-shadow: 3px 1px rgb(46, 4, 171);
+    
+}
+.aboutheading1 p{
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Kaushan Script', cursive;
+    color: green;
+    font-size: 15px;
+}
+.aboutimg img{
+    height: 390px;
+    width: 560px;
+    border-radius: 10px;
+}
+.aboutheading2{
+    background-color: yellow;
+    border-radius: 40px;  
+    width: 445px;
+    height: 390px;
+}
+.aboutheading2 h1{
+    margin-left: 104px;
+    margin-right: 125px;
+    margin-top: 15px;
+    font-family: 'Protest Revolution', sans-serif;
+    color: rgb(3, 242, 255);
+    font-size: 50px;
+    text-shadow: 2px 2px rgb(3, 3, 155);
+    
+
+}
+.aboutheading2 p{
+    margin-top: 20px;
+    margin-left: 53px;
+    margin-right: 50px;
+    font-family: 'Kaushan Script', cursive;
+    color: green;
+    font-size: 15px;
+}
+.aboutheading2 button{
+    margin-left: 157px;
+    padding: 10px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 20px;
+    background-color: orangered;
+    color: white;
+    box-shadow: 2px 2px rgb(4, 119, 30);
+    text-shadow: 3px 1px rgb(46, 4, 171);
+}
+
+
+
+
+.ambiencepic{
+    background-image: url(./spectra-all-day-dining-restaurant-gurugram.jpg);
+    height: 600px;
+   
+    opacity: 0.7;
+    margin-top: 3px;
+    box-shadow: 1px 1px 20px maroon;
+}
+.loctxt{
+    height: 440px;
+    background-color: rgb(16, 5, 111);
+    transform: translateY(107px);
+    border-radius: 10px;
+    width: 455px;
+    margin-left: 540px;
+    box-shadow: 2px 2px 10px #f1f1f1;
+}
+.loctxt h1{
+    transform: translateY(30px);
+    margin-left: 125px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 50px;
+    text-shadow: 2px 5px rgb(4, 4, 4);
+    color: white;
+}
+.loctxt p{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: 'Kaushan Script';
+    font-size: 20px;
+    color: yellow;
+
+    text-shadow: 0.1px 0.5px blue;
+}
+.loctxt button{
+    margin-left: 170px;
+    margin-top: 25px;
+    padding: 10px;
+    font-family: 'Protest Revolution', sans-serif;
+    font-size: 20px;
+    background-color: white;
+    color: red;
+    box-shadow: 2px 2px rgb(0, 195, 255);
+    text-shadow: 1px 1px black;
+    
+
+}
+.loctxt button:hover{
+    cursor: pointer;
+    transform: translateY(-10px);
+    transition-delay: 0.1s;    
+}
+
+footer{
+    background-color:rgb(215, 59, 2);
+    height: 500px;
+}
+
+.footer{
+    height: 420px;
+    background-color: wheat ;
+background-size: cover;    box-shadow: 1px 1px 10px rgb(70, 4, 70);
+    transform: translateY(40px);
+    margin-left: 65px;
+    border-radius: 20px;
+    width: 200vh
+    
+}
+.footerflex h1{
+    margin-left: 150px;
+    margin-top:78px;
+    font-size: 48px;
+    color: rgb(46, 4, 171);
+    text-shadow: 1px 1px black;
+    
+
+}
+.footerflex p{
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 185px;
+    color: red;
+    font-weight: bold;
+
+    
+}
+.footerflex h5{
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 10px;
+    margin-left: 175px;
+    color: black;
+    
+}
+
+.socialmedia h1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 136px;
+    color:  rgb(46, 4, 171);
+    text-shadow: 1.5px 1px black;
+    
+}
+.socialicon{
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 20px;
+    
+    
+    
+}
+

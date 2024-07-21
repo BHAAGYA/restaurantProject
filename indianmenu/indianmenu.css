@@ -1,0 +1,187 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+main{
+    background-image: linear-gradient(rgba(43, 40, 40, 0.167),rgb(41, 17, 17)),url('../main-banner-bg.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+.backgroundtext{
+    color: white;
+    margin-left: 120px;
+    margin-top: 200px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 35px;
+    text-shadow: 2px 1px black;
+}
+            
+.menu {
+    height: 1065px;
+    width: 1473px; 
+    background-image: url(./oriental-spices-six-spoons_23-2147684849.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;    
+} 
+.menuimgg {
+    margin-top: -919px;
+     margin-left: 474px;
+}
+.menu h1{
+    color: white; 
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+    padding-top: 40px;
+    padding-left: 600px;
+
+}
+.menu1 h1{
+    margin-top: -780px; 
+    margin-left: 747px;
+}
+.menu2{
+    display: flex;
+}
+
+.veg{
+    margin-left: 620px;
+    margin-top: 20px;
+}
+.veg ul{
+    margin-top: 8px;
+    list-style-type: none;
+}
+.nontxt h3{
+    margin-left: 90px;
+     margin-top: 20px;
+}
+.nontxt ul{
+    list-style-type: none; 
+    margin-left: 90px; 
+    margin-top: 8px; 
+}
+.menumain h1{
+    margin-top: 40px; 
+    margin-left: 719px;
+}
+.main2{
+    display: flex;
+}
+.vegmain{
+    margin-left: 362px; 
+    margin-top: 20px;
+}
+.vegmain h3{
+    margin-left: 250px;
+}
+ 
+.vegmain ul{
+    margin-top: 8px;
+    list-style-type: none; 
+    margin-left: 250px;
+}
+.nonmain h3{
+    margin-left: 130px; 
+    margin-top: 16px;
+}
+.nonmain ul{
+    margin-top: 8px; 
+    list-style-type: none; 
+    margin-left: 130px; 
+}
+.dessert h1{
+    margin-top: 40px; 
+    margin-left: 742px;
+}
+.dessert2{
+    display: flex;
+}
+.li1 ul{
+    margin-top: 16px;
+    list-style-type: none; 
+    margin-left: 594px; 
+}
+.li2 ul{
+    margin-top: 16px; 
+    list-style-type: none; 
+    margin-left: 130px;
+}
+.drinks h1{
+    margin-top: 47px; 
+    margin-left: 744px;
+}
+.drinks2{
+    display: flex;
+}
+.lii1 ul{
+    margin-top: 22px; 
+    list-style-type: none;
+    margin-left: 588px;
+}
+.lii2 ul{
+    margin-top: 22px; 
+    list-style-type: none; 
+    margin-left: 130px;
+}
+
+
+footer{
+    background-color:rgb(215, 59, 2);
+    height: 500px;
+    margin-top: 181px;
+}
+
+.footer{
+    height: 420px;
+    background-color: wheat ;
+    width: 1300px;
+    box-shadow: 1px 1px 10px rgb(70, 4, 70);
+    transform: translateY(40px);
+    margin-left: 85px;
+    border-radius: 20px;
+    
+}
+.footerflex h1{
+    margin-left: 150px;
+    margin-top:78px;
+    font-size: 48px;
+    color: rgb(46, 4, 171);
+    text-shadow: 1px 1px black;
+    
+
+}
+.footerflex p{
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 185px;
+    color: red;
+    font-weight: bold;
+
+    
+}
+.footerflex h5{
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 10px;
+    margin-left: 175px;
+    color: black;
+    
+}
+
+.socialmedia h1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 136px;
+    color:  rgb(46, 4, 171);
+    text-shadow: 1.5px 1px black;
+    
+}
+.socialicon{
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 20px;
+    
+    
+}
+

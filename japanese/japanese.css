@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+
+main{
+    background-image: linear-gradient(rgba(43, 40, 40, 0.167),rgb(46, 28, 28)),url('./food-fish-black-background-caviar-wallpaper-preview.jpg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+.backgroundtext{
+    color: white;
+    margin-left: 120px;
+    margin-top: 200px;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 35px;
+    text-shadow: 2px 1px black;
+}
+            
+.menu {
+    height: 1065px;
+    width: 1473px; 
+    background-image: url(./traditional-japanese-food-sushi-rolls-rice-with-shrimp-sauce-dark-background-top-view.jpg);
+    background-size: cover;
+        
+} 
+.menuimgg {
+    margin-top: -940px;
+    margin-left: 450px;
+     
+}
+.menuimgg img{
+    
+     height: 900px;
+     width: 620px;
+     border-radius: 50px;
+     box-shadow: 5px 5px 20px black;
+}
+
+.menu h1{
+    color: white; 
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+    padding-top: 40px;
+    padding-left: 539px;
+
+}
+.menu1 h1{
+    margin-top: -869px; 
+    margin-left: 733px;
+    color: white;
+}
+.menu2{
+    display: flex;
+}
+
+.veg{
+    margin-left: 589px;
+    margin-top: 15px;
+    color: white;
+    
+    
+}
+.veg ul{
+    margin-top: 5px;
+    list-style-type: none;
+    color: white;
+    font-size: 14px;
+}
+.nontxt h3{
+    margin-left: 126px;
+     margin-top: 20px;
+     color: white;
+}
+.nontxt ul{
+    list-style-type: none; 
+    margin-left: 125px; 
+    margin-top: 5px;
+    color: white; 
+    font-size: 14px;
+}
+.menumain h1{
+    margin-top: 12px; 
+    margin-left: 700px;
+    color: white;
+}
+.main2{
+    display: flex;
+}
+.vegmain{
+    margin-left: 336px; 
+    margin-top: 8px;
+    color: white;
+}
+.vegmain h3{
+    margin-left: 250px;
+    color: white;
+}
+ 
+.vegmain ul{
+    margin-top: 4px;
+    list-style-type: none; 
+    margin-left: 250px;
+    color: white;
+    font-size: 14px;
+}
+.nonmain h3{
+    margin-left: 130px; 
+    margin-top: 11px;
+    color: white;
+}
+.nonmain ul{
+    margin-top: 3px; 
+    list-style-type: none; 
+    margin-left: 130px;
+    color: white;
+    font-size: 14px; 
+}
+.dessert h1{
+    margin-top: 4px; 
+    margin-left: 724px;
+    color: white;
+}
+.dessert2{
+    display: flex;
+}
+.li1 ul{
+    margin-top: 6px;
+    list-style-type: none; 
+    margin-left: 581px; 
+    color: white;
+    font-size: 14px;
+}
+.li2 ul{
+    margin-top: 8px; 
+    list-style-type: none; 
+    margin-left: 133px;
+    color: white;
+    font-size: 14px;
+}
+.drinks h1{
+    margin-top: 1px; 
+    margin-left: 726px;
+    color: white;
+}
+.drinks2{
+    display: flex;
+    }
+.lii1 ul{
+    margin-top: 10px; 
+    list-style-type: none;
+    margin-left: 581px;
+    color: white;
+    font-size: 14px;
+}
+.lii2 ul{
+    margin-top: 11px; 
+    list-style-type: none; 
+    margin-left: 130px;
+    color: white;
+    font-size: 14px;
+}
+
+
+footer{
+    background-color:rgb(215, 59, 2);
+    height: 500px;
+    margin-top: 409px;
+}
+
+.footer{
+    height: 420px;
+    background-color: wheat ;
+    width: 1300px;
+    box-shadow: 1px 1px 10px rgb(70, 4, 70);
+    transform: translateY(40px);
+    margin-left: 85px;
+    border-radius: 20px;
+    
+}
+.footerflex h1{
+    margin-left: 150px;
+    margin-top:78px;
+    font-size: 48px;
+    color: rgb(46, 4, 171);
+    text-shadow: 1px 1px black;
+    
+
+}
+.footerflex p{
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 185px;
+    color: red;
+    font-weight: bold;
+
+    
+}
+.footerflex h5{
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 10px;
+    margin-left: 175px;
+    color: black;
+    
+}
+
+.socialmedia h1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 136px;
+    color:  rgb(46, 4, 171);
+    text-shadow: 1.5px 1px black;
+    
+}
+.socialicon{
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 20px;
+    
+    
+}
+

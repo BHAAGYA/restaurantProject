@@ -1,0 +1,180 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    background-color: hsla( 27.57,44.58%,83.73% ,1);
+    height: 1000px;
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+    margin: 20px;
+    box-shadow: 8px 8px rgb(200, 4, 43);
+    background-color: rgb(7, 50, 87);
+    padding: 11px;
+    border-radius: 5px;
+    color: white;
+    margin-left: 400px;
+    
+
+    
+}
+.lilyimg{
+    display: flex; 
+}
+.nav{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+ 
+li{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family:  'Protest Riot', sans-serif;
+    padding: 3px;
+    font-size: 20px;
+    
+}
+li:hover{
+    text-decoration: underline yellow;
+    
+
+}
+
+.navcontent {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    font-family:  'Protest Riot', sans-serif;
+    border-radius: 10px;
+  }
+  
+  .navcontent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .navcontent a:hover {
+    background-color: #ddd;
+  }
+  
+  .navlocation:hover .navcontent {
+    display: block;
+}
+.texttt{
+    margin-left: 470px;
+}
+.texttt h1{
+    
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: maroon;
+    margin-left: 166px;
+    transform: translateY(30px);
+    
+    
+}
+.texttt p{
+    
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(214, 140, 120);
+    text-shadow: 1px 1px 0px brown;
+    font-size: 50px;
+    margin-left: 10px;
+    transform: translateY(30px);
+    
+    
+}
+
+
+.reserve img{
+    height: 620px;
+    width:45% ;
+    margin-left: 185px;
+    margin-top: 50px;
+    box-shadow: 5px 5px 20px rgb(60, 29, 29);
+}
+
+
+
+.form{
+    background-color:rgb(214, 140, 120);;
+    height: 570px;
+    width: 35%;
+    margin-left: -56px;
+    margin-top: 80px;
+    border-radius: 5px 100px 5px 100px;
+    border-radius: 5px 100px 5px 100px;
+    box-shadow: 5px 5px 20px rgb(60, 29, 29);
+}
+
+.first{
+    
+}
+
+
+
+
+
+footer{
+    background-color:rgb(57 39 33);
+    height: 500px;
+}
+.footer{
+    height: 420px;
+    background-color: wheat ;
+    width: 89%;
+    box-shadow: 1px 1px 10px rgb(70, 4, 70);
+    transform: translateY(40px);
+    margin-left: 85px;
+    border-radius: 20px;
+    
+}
+.footerflex h1{
+    margin-left: 150px;
+    margin-top:78px;
+    font-size: 48px;
+    color: rgb(46, 4, 171);
+    text-shadow: 1px 1px black;
+    
+
+}
+.footerflex p{
+    font-family: 'PT Sans', sans-serif;
+    margin-left: 185px;
+    color: red;
+    font-weight: bold;
+
+    
+}
+.footerflex h5{
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 10px;
+    margin-left: 175px;
+    color: black;
+    
+}
+
+.socialmedia h1{
+    font-size: 40px;
+    margin-left: 200px;
+    margin-top: 136px;
+    color:  rgb(46, 4, 171);
+    text-shadow: 1.5px 1px black;
+    
+}
+.socialicon{
+    font-size: 60px;
+    margin-left: 250px;
+    margin-top: 20px;
+    
+    
+}
+
