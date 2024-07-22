@@ -5,7 +5,7 @@
 }
 
 main{
-    background-image: linear-gradient(rgba(43, 40, 40, 0.167),rgb(41, 17, 17)),url('./wp1874155\ \(1\).webp');
+    background-image: linear-gradient(rgba(43, 40, 40, 0.167),rgb(41, 17, 17)),url('./Screenshot\ 2024-02-06\ 111329.png');
     height: 100vh;
     background-size: cover;
     background-repeat: no-repeat; 
@@ -150,8 +150,9 @@ li:hover{
     background-size: cover;
     height: 600px;
     margin-top: 170px;
-    width: 20vh;
-    margin-left: 2px;
+    width: 207vh;
+    margin-left: 3px;
+    margin-right: 3px;
     box-shadow: 1px 1px 10px black;
     
 } 
@@ -254,16 +255,14 @@ li:hover{
 }
 .aboutbox{
     display: flex;
-    margin-left: 30px;
-    margin-right: 10px;
-    
-
 }
 .aboutheading1{
     background-color: yellow;
     border-radius: 40px;
     width: 445px;
     height: 390px;
+    margin-left:5px ;
+    margin-right:5px ;
 }
 .aboutheading1 h1{
     margin-left: 130px;
@@ -297,12 +296,18 @@ li:hover{
     height: 390px;
     width: 560px;
     border-radius: 10px;
+ 
+margin-left: 1px;  
+margin-right: 1px;  
+    
 }
 .aboutheading2{
     background-color: yellow;
     border-radius: 40px;  
     width: 445px;
     height: 390px;
+    margin-left:5px ;
+    margin-right:5px ;
 }
 .aboutheading2 h1{
     margin-left: 104px;
@@ -402,8 +407,7 @@ footer{
     background-size: cover;    
     box-shadow: 1px 1px 10px rgb(70, 4, 70);
     transform: translateY(40px);
-    margin-left: 65px;
-    border-radius: 20px;
+    border-radius: 100px;
     
     
 }
