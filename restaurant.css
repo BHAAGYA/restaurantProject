@@ -399,11 +399,12 @@ footer{
 .footer{
     height: 420px;
     background-color: wheat ;
-background-size: cover;    box-shadow: 1px 1px 10px rgb(70, 4, 70);
+    background-size: cover;    
+    box-shadow: 1px 1px 10px rgb(70, 4, 70);
     transform: translateY(40px);
     margin-left: 65px;
     border-radius: 20px;
-    width: 200vh
+    
     
 }
 .footerflex h1{
